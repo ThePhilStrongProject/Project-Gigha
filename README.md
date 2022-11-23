@@ -35,9 +35,9 @@ Offer a basic / start configuration to get projects moving as quickly as possibl
 * Belt driven from central motor, double wishbone with steering
 
 ## Rear subframe
-* Watts link undriven
-* Double wishbone undriven
-* 540 size motor, double wishbone
+* Solid axle with panhard rod, undriven
+* Double wishbone, undriven
+* Double wishbone, 540 size motor
 * Twin motor (low-kV outrunner?), multilink?
 
 ## Ancilliaries
