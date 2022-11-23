@@ -11,6 +11,8 @@ Be accessible and cost effective for those starting to get involved in the hobby
 
 Be well documented and use parts available off the shelf.
 
+Pull together the best of the 3D printed RC community.
+
 Be open source.
 
 Offer a basic / start configuration to get projects moving as quickly as possible.
@@ -41,6 +43,11 @@ Offer a basic / start configuration to get projects moving as quickly as possibl
 * Battery mounts for predetermined batteries
 * RC and FPV equipment mounts and boxes
 * Body shell mount
+
+# Get involved
+This is a brand new project, aiming to get the best of the 3D printed RC community working together. To share your ideas, please join the Discord server to dicuss, design and build!
+
+https://discord.gg/Pp296saG
 
 # License
 <p align="center">
