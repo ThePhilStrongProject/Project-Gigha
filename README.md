@@ -3,9 +3,11 @@
   A fully configurable 1:10 on-road and light off-road RC car platform
 </p>
 
+Love 3D printing? Want a four wheel drive RC rally car? Or a short front wheel drive hot hatch? How about a torque vectoring dragster? What if you want all three, and for them to share as many parts as possible, with changing configuration being as simple as bolting a few parts on and off? This is the Project Gigha (gee-ah) concept, inspired by full size car manufacturers creating 'platforms' for similar cars, which can be modified and tweaked to suit the use case.
+
 # Project goals
 
-Create a suite of compatible sub-assemblies that can be combined and configured to create thousands of different and interesting RC car variants.
+Create a suite of compatible sub-assemblies that can be combined and configured to create thousands of different and interesting RC car variants
 
 Be accessible and cost effective for those starting to get involved in the hobby, but flexibile to allow experienced hobbyists to experiment and contribute with new arrangements.
 
@@ -28,9 +30,9 @@ Offer a basic / start configuration to get projects moving as quickly as possibl
 * CNC carbon
 
 ## Front subframe
-* Undriven, double wishbone short
-* 540 size motor, double wishbone
-* Belt driven from central motor, double wishbone
+* Undriven, double wishbone with steering
+* 540 size motor, double wishbone with steering
+* Belt driven from central motor, double wishbone with steering
 
 ## Rear subframe
 * Watts link undriven
